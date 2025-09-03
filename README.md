@@ -1,1 +1,1 @@
-# Langchain-Projects
+# GEN AI -Projects
